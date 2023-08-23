@@ -42,3 +42,8 @@ Questo esercizio richiede un po' di ricerca ma anche un po' di domande che accom
 - Recuperare i millisecondi per domani.
   - trasformarla nuovamente in millisecondi.
 - Sottrarre alla quantità di millisecondi di domani i millisecondi di oggi per creare il countdown.
+- Ricavare dai millisecondi, ora, minuti e secondi in tempo reale..
+- aggiungerli al countdown..
+- devo utilizzare setTimeout o setInterval ??
+- settare un ciclo che rimuove 1 secondo alla volta?
+  fare in modo che alle 9:30 il countdown si fermi.
