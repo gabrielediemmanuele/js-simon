@@ -43,7 +43,7 @@ Questo esercizio richiede un po' di ricerca ma anche un po' di domande che accom
   - trasformarla nuovamente in millisecondi.
 - Sottrarre alla quantità di millisecondi di domani i millisecondi di oggi per creare il countdown.
 - Ricavare dai millisecondi, ora, minuti e secondi in tempo reale..
-- aggiungerli al countdown..
-- devo utilizzare setTimeout o setInterval ?? **_clearInterval();_**
-- settare un ciclo che rimuove 1 secondo alla volta?
-  fare in modo che alle 9:30 il countdown si fermi.
+- creare un setInterval per far si che venga sottratto 1 secondo alla volta.
+- tramite math.floor recuperare ora, minuti e secondi.
+- utilizzare **_clearTimeout();_** per impredire che prosegua allo scadere del tempo quando arriva a 0.
+- agganciare all'html i dati.
