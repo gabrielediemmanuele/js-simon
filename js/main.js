@@ -63,3 +63,8 @@ function timeConverter(countdown) {
   return hours + ":" + minutes + ":" + seconds + "." + milliseconds;
 }
 console.log(timeConverter(countdown));
+
+countdown = setInterval(function () {
+  milliseconds--;
+}, 1000);
+clearTimeout(countdown);

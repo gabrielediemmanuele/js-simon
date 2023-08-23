@@ -44,6 +44,6 @@ Questo esercizio richiede un po' di ricerca ma anche un po' di domande che accom
 - Sottrarre alla quantità di millisecondi di domani i millisecondi di oggi per creare il countdown.
 - Ricavare dai millisecondi, ora, minuti e secondi in tempo reale..
 - aggiungerli al countdown..
-- devo utilizzare setTimeout o setInterval ?? clearInterval.
+- devo utilizzare setTimeout o setInterval ?? **_clearInterval();_**
 - settare un ciclo che rimuove 1 secondo alla volta?
   fare in modo che alle 9:30 il countdown si fermi.
